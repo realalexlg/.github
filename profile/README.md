@@ -10,7 +10,7 @@ My name is Alex, I am a developer who loves making web apps and tinkering with p
 I am interested in web development, cybersecurity, linux, android and more!
 
 > [!IMPORTANT]  
-> A good portion of my commits/repos are private, thats why I dont have many repos
+> You should check out my current project to make a [chat app](https://github.com/xyrdron/nefira-app)
 
 <br>
 <div align="left">
